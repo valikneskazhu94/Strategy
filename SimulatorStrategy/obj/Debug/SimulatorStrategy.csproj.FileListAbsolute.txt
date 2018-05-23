@@ -1,0 +1,7 @@
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\bin\Debug\SimulatorStrategy.exe.config
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\bin\Debug\SimulatorStrategy.exe
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\bin\Debug\SimulatorStrategy.pdb
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\obj\Debug\SimulatorStrategy.csprojResolveAssemblyReference.cache
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\obj\Debug\SimulatorStrategy.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\obj\Debug\SimulatorStrategy.exe
+E:\Новая папка (2)\паттерны\SimulatorStrategy\SimulatorStrategy\obj\Debug\SimulatorStrategy.pdb
